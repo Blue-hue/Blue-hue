@@ -1,3 +1,6 @@
+
+![b15bd596014d9d9310e59b07b85da550](https://github.com/user-attachments/assets/b896f4d3-8f86-4cf4-b825-c9f9a02571c0)
+
 <h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   Hi 👋, I'm <span style="color:#8be9fd;">Bluehue</span>
 </h2>
@@ -5,6 +8,7 @@
 <h4 align="center" style="font-weight: normal;">
   🚀 Passionate about development, algorithms, and anime :)
 </h4>
+
 
 
 <br/>
