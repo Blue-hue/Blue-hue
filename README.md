@@ -1,25 +1,6 @@
-
-![b15bd596014d9d9310e59b07b85da550](https://github.com/user-attachments/assets/b896f4d3-8f86-4cf4-b825-c9f9a02571c0)
-
-<h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  Hi 👋, I'm <span style="color:#8be9fd;">Bluehue</span>
-</h2>
-
-<h4 align="center" style="font-weight: normal;">
-  🚀 Passionate about development, algorithms, and anime :)
-</h4>
-
-
-
-<br/>
-
-- 🔭 I’m currently working on **full-stack development**  
-- 🌱 I’m currently learning **AI/ML**  
-- 🤝 I’m looking to collaborate on **projects**
-
-<br/>
-
-
+<p align="center">
+  <img src="b15bd596014d9d9310e59b07b85da550.gif" width="600"/>
+</p>
 <div id="badges" align="center">
   <a href="https://linkedin.com/in/sapghosh30" target="blank">
     <img src="https://img.shields.io/badge/_-LinkedIn-_?style=for-the-badge&logo=linkedin&color=blue" alt="LinkedIn Badge">
@@ -38,12 +19,36 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=blue-hue&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="blue-hue" />
 </div>
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0172.gif" border="0" alt="animated-line-image-0172" width = 100% height = 2px /></a>
+
+
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  Hi, I'm <span style="color:#8be9fd;">Bluehue</span>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat%20with%20Smiling%20Eyes.png" alt="Grinning Cat with Smiling Eyes" width="45" height="45" />
+</h2>
+
+<h4 align="center" style="font-weight: normal;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="20" height="20" /> Passionate about development, algorithms, and anime :)
+</h4>
+
+
+
+<br/>
+
+- 🔭 I’m currently working on **full-stack development**  
+- 🌱 I’m currently learning **AI/ML**  
+- 🤝 I’m looking to collaborate on **projects**
+
+<br/>
+
+
+
+#
 
 ### 🛠️ Languages & Tools I've Used
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,dart,html,css,react,nextjs,nodejs,express,mongodb,mysql,postgresql,sqlite,redis,git,figma,flutter,firebase,postman,linux,tailwind,django,photoshop,illustrator,appwrite,blender&perline=8" />
+<p>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,dart,html,css,react,nextjs,nodejs,express,mongodb,mysql,postgresql,sqlite,redis,git,figma,flutter,firebase,postman,linux,tailwind,django,photoshop,illustrator,appwrite,blender" />
 </p>
 
 #
